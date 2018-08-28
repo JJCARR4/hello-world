@@ -1,2 +1,3 @@
 # hello-world
-This is not really a description..
+My name is Jesse and my favorite food is chicken. I would prefer it
+to be fried, but basically any preparation will do.
